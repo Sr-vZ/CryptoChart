@@ -8,8 +8,6 @@ import pandas as pd
 from scipy import stats
 
 proxyDict = {
-    # "http": "http://proxy.intra.bt.com:8080",
-    "https": "http://proxy.intra.bt.com:8080"
     # "ftp": ftp_proxy
 }
 # Create URL to JSON file (alternatively this can be a filepath)
